@@ -6,7 +6,7 @@ import Footer from "@/components/footer";
 import ThemeSwitch from "@/components/theme-switch";
 import ThemeContextProvider from "@/context/theme-context";
 import { Toaster } from "react-hot-toast";
-
+import favicon from "@/public/favicon.ico"
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
@@ -21,9 +21,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className="!scroll-smooth">
-      <head>
-      <link rel="icon" type="image/x-icon" href="/public/favicon.ico" />
-      </head>
+      
       <body
         className={`${inter.className} bg-gray-50 text-gray-950 relative pt-28 sm:pt-36 dark:bg-gray-900 dark:text-gray-50 dark:text-opacity-90`}
       >
