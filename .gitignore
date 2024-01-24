@@ -14,7 +14,7 @@
 
 # production
 /build
-experience.tsx
+
 # misc
 .DS_Store
 *.pem
