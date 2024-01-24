@@ -45,7 +45,7 @@ export const experiencesData = [
     date: "2023",
   },
   {
-    title: "Software Engineering Internship",
+    title: "Rebb Tech, Software Engineering Internship",
     location: "Sydney, NSW",
     description:
       "Developed and maintained responsive web apps with React, Next.js, and Zustand, collaborating seamlessly with backend developers to integrate RESTful APIs, while implementing Jest for unit tests and prioritizing continuous learning and code documentation.",
