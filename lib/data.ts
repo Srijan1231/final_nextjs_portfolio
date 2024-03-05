@@ -46,12 +46,12 @@ export const experiencesData = [
     date: "July-2022 to Jan-2023",
   },
   {
-    title: "Dhiki Labs",
+    title: "Dhiki Labs, Junior Software Engineer",
     location: "Sydney, NSW",
     description:
       "Collaborate with UI/UX designers to transform wireframes and mock-ups into fully functional web applications.Develop and maintain scalable and efficient backend applications using Node.js and Express, ensuring code quality and adherence to best practices.Create responsive and user-friendly front-end interfaces using React, Next.js, Material UI and other JavaScript frameworks. Optimize application performance and ensure smooth user experience through continuous monitoring, debugging, and performance tuning.Work closely with the quality assurance team to conduct thorough testing, identify and fix bugs, and ensure software reliability.",
     icon: React.createElement(LuGraduationCap),
-    date: "2023",
+    date: "Sep-2023 to current",
   },
 
 ] as const;
