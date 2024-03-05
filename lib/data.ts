@@ -36,21 +36,22 @@ export const links = [
 ] as const;
 
 export const experiencesData = [
-  {
-    title: "Dented Code, Software Development Bootcamp",
-    location: "Sydney, NSW",
-    description:
-      "I graduated after 6 months of studying",
-    icon: React.createElement(LuGraduationCap),
-    date: "2023",
-  },
+
   {
     title: "Rebb Tech, Software Engineering Internship",
     location: "Sydney, NSW",
     description:
       "Developed and maintained responsive web apps with React, Next.js, and Zustand, collaborating seamlessly with backend developers to integrate RESTful APIs, while implementing Jest for unit tests and prioritizing continuous learning and code documentation.",
     icon: React.createElement(CgWorkAlt),
-    date: "October-2023",
+    date: "July-2022 to Jan-2023",
+  },
+  {
+    title: "Dhiki Labs",
+    location: "Sydney, NSW",
+    description:
+      "Collaborate with UI/UX designers to transform wireframes and mock-ups into fully functional web applications.Develop and maintain scalable and efficient backend applications using Node.js and Express, ensuring code quality and adherence to best practices.Create responsive and user-friendly front-end interfaces using React, Next.js, Material UI and other JavaScript frameworks. Optimize application performance and ensure smooth user experience through continuous monitoring, debugging, and performance tuning.Work closely with the quality assurance team to conduct thorough testing, identify and fix bugs, and ensure software reliability.",
+    icon: React.createElement(LuGraduationCap),
+    date: "2023",
   },
 
 ] as const;
